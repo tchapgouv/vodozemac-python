@@ -16,5 +16,5 @@ vodozemac = "0.7.0"
 name = "vodozemac"
 
 [dependencies.pyo3]
-version = "0.22.2"
+version = "0.24.1"
 features = ["extension-module"]
